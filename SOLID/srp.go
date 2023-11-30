@@ -1,5 +1,6 @@
 package main
 
+//single responsibility
 import (
 	"fmt"
 	"os"
